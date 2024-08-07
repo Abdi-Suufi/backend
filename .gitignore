@@ -1,0 +1,48 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variable files
+.env
+
+# Logs
+logs/
+*.log
+
+# Runtime files
+pids/
+*.pid
+*.seed
+
+# Directory for npm cache
+.npm
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build directories
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*.orig
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Docker files
+docker-compose.yml
+Dockerfile
+
+# npm package lock file (if applicable)
+package-lock.json
